@@ -4,6 +4,7 @@
 #include <GL/glut.h>
 #include <GL/gl.h>
 
+	//hola
 	//Matriz de colores
 	float colores[4][3]=
 	{
